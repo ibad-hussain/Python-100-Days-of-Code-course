@@ -1,0 +1,3 @@
+# EXERCISE 5 - SNAKE WATER GUN GAME
+## Problem Statement
+Snake Water Gun game is a variation of the children's game "Rock-Paper-Scissors" where players use hand gestures to represent a snake, water, or a gun. The GUN beats the SNAKE, the WATER beats the GUN, and the SNAKE beats the WATER. Write a python program to create a Snake Water Gun game in Python using if-else statements. Do not create any fancy GUI. Use proper functions to check for win.
