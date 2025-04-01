@@ -1,12 +1,12 @@
 # Python 100 Days of Code
-## 🚀Overview
+## 🚀 Overview
 Welcome to my repository!
 <br>
 This repository contains the solutions to all 11 exercises/mini projects that were part of the Python 100 Days of Code course from Code With Harry on YouTube.
 <br>
 Throughout the course, I learned Python fundamentals, built real-world projects, and gained hands-on experience by solving various exercises provided by the instructor. This repository serves as a collection of my work from the course.
 
-## Purpose
+## 🚀 Purpose
 The goal of this repository is to:
 <br>
 &emsp; - Showcase my progress through the 100 Days of Code challenge.
