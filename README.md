@@ -1,5 +1,5 @@
 # Python 100 Days of Code
-## ╰┈➤ Overview
+## 🚀Overview
 Welcome to my repository!
 <br>
 This repository contains the solutions to all 11 exercises/mini projects that were part of the Python 100 Days of Code course from Code With Harry on YouTube.
