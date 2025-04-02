@@ -53,5 +53,3 @@ Here are the exercises and mini-projects I completed during the course:
 
 ## 🚀 License
 This repository is for educational purposes only. Feel free to use the code.
-
-
