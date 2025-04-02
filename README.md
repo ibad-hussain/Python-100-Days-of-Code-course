@@ -17,7 +17,7 @@ The goal of this repository is to:
 
 ## 🚀 List of Exercises/Mini Projects
 Here are the exercises and mini-projects I completed during the course:
-1. Exercise 1: Calculator
+&emsp; ⮞ Exercise 1: Calculator
 2. Exercise 2: Time-based Greetings
 3. Exercise 3: KBC Quiz
 4. Exercise 4: Secret Code Language
