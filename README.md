@@ -9,7 +9,7 @@ Throughout the course, I learned Python fundamentals, built real-world projects,
 ## 🚀 Purpose
 The goal of this repository is to:
 <br>
-&emsp; - Showcase my progress through the 100 Days of Code challenge.
+&emsp; ▸ Showcase my progress through the 100 Days of Code challenge.
 <br>
 &emsp; - Provide solutions to the mini-projects and exercises given in the course.
 <br>
