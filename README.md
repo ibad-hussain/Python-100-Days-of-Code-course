@@ -46,10 +46,16 @@ Here are the exercises and mini-projects I completed during the course:
 <br>
 
 ## 🚀 Technologies Used
-- Python – All the exercises are written in Python.
-- Python libraries/modules explored – random, os, time, shutil, requests, bs4, json, pyPDF2, win32.client, plyer
+- <b>Python –</b> All the exercises are written in Python.
+- <b>Python libraries/modules explored –</b> random, os, time, shutil, requests, bs4, json, pyPDF2, win32.client, plyer
 
 <br>
 
 ## 🚀 License
 This repository is for educational purposes only. Feel free to use the code.
+
+<br>
+
+## 🚀 Contact
+- Email: ibadhussain2212@gmail.com
+- LinkedIn: www.linkedin.com/in/ibadhussain
