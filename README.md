@@ -18,16 +18,26 @@ The goal of this repository is to:
 ## 🚀 List of Exercises/Mini Projects
 Here are the exercises and mini-projects I completed during the course:
 &emsp; ⮞ Exercise 1: Calculator
-2. Exercise 2: Time-based Greetings
-3. Exercise 3: KBC Quiz
-4. Exercise 4: Secret Code Language
-5. Exercise 5: Snake Water Gun game
-6. Exercise 6: Library Management System
-7. Exercise 7: Rename Images
-8. Exercise 8: Merge pdfs
-9. Exercise 9: Speak Names
-10. Exercise 10: Display News
-11. Exercise 11: Drink Water Reminder
+<br>
+&emsp; ⮞ Exercise 2: Time-based Greetings
+<br>
+&emsp; ⮞ Exercise 3: KBC Quiz
+<br>
+&emsp; ⮞ Exercise 4: Secret Code Language
+<br>
+&emsp; ⮞ Exercise 5: Snake Water Gun game
+<br>
+&emsp; ⮞ Exercise 6: Library Management System
+<br>
+&emsp; ⮞ Exercise 7: Rename Images
+<br>
+&emsp; ⮞ Exercise 8: Merge pdfs
+<br>
+&emsp; ⮞ Exercise 9: Speak Names
+<br>
+&emsp; ⮞ Exercise 10: Display News
+<br>
+&emsp; ⮞ Exercise 11: Drink Water Reminder
 
 ## 🚀 Technologies Used
 - Python – All the exercises are written in Python.
