@@ -9,13 +9,13 @@ Throughout the course, I learned Python fundamentals, built real-world projects,
 ## 🚀 Purpose
 The goal of this repository is to:
 <br>
-&emsp; ▸ Showcase my progress through the 100 Days of Code challenge.
+&emsp; ► Showcase my progress through the 100 Days of Code challenge.
 <br>
-&emsp; - Provide solutions to the mini-projects and exercises given in the course.
+&emsp; ► Provide solutions to the mini-projects and exercises given in the course.
 <br>
-&emsp; - Help others by sharing solutions they can refer to while following along with the course.
+&emsp; ► Help others by sharing solutions they can refer to while following along with the course.
 
-## List of Exercises/Mini Projects
+## 🚀 List of Exercises/Mini Projects
 Here are the exercises and mini-projects I completed during the course:
 1. Exercise 1: Calculator
 2. Exercise 2: Time-based Greetings
@@ -29,9 +29,9 @@ Here are the exercises and mini-projects I completed during the course:
 10. Exercise 10: Display News
 11. Exercise 11: Drink Water Reminder
 
-## Technologies Used
+## 🚀 Technologies Used
 - Python – All the exercises are written in Python.
 - Python libraries/modules explored – random, os, time, shutil, requests, bs4, json, pyPDF2, win32.client, plyer
 
-## License
+## 🚀 License
 This repository is for educational purposes only. Feel free to use the code.
