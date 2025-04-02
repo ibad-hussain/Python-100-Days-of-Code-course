@@ -6,6 +6,8 @@ This repository contains the solutions to all 11 exercises/mini projects that we
 <br>
 Throughout the course, I learned Python fundamentals, built real-world projects, and gained hands-on experience by solving various exercises provided by the instructor. This repository serves as a collection of my work from the course.
 
+<br>
+
 ## 🚀 Purpose
 The goal of this repository is to:
 <br>
@@ -14,6 +16,8 @@ The goal of this repository is to:
 &emsp; ⮞ Provide solutions to the mini-projects and exercises given in the course.
 <br>
 &emsp; ⮞ Help others by sharing solutions they can refer to while following along with the course.
+
+<br>
 
 ## 🚀 List of Exercises/Mini Projects
 Here are the exercises and mini-projects I completed during the course:
@@ -39,9 +43,15 @@ Here are the exercises and mini-projects I completed during the course:
 <br>
 &emsp; ⮞ Exercise 11: Drink Water Reminder
 
+<br>
+
 ## 🚀 Technologies Used
 - Python – All the exercises are written in Python.
 - Python libraries/modules explored – random, os, time, shutil, requests, bs4, json, pyPDF2, win32.client, plyer
 
+<br>
+
 ## 🚀 License
 This repository is for educational purposes only. Feel free to use the code.
+
+
