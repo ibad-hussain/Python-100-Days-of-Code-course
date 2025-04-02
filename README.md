@@ -21,6 +21,7 @@ The goal of this repository is to:
 
 ## 🚀 List of Exercises/Mini Projects
 Here are the exercises and mini-projects I completed during the course:
+<br>
 &emsp; ⮞ Exercise 1: Calculator
 <br>
 &emsp; ⮞ Exercise 2: Time-based Greetings
